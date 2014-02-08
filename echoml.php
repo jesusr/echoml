@@ -126,4 +126,4 @@ function echoml_medio_ret(){
     elseif(ICL_LANGUAGE_CODE == 'fr'): return  '<span class="label label-info">Média: ' . get_field('medio_fr') . '</span>';
     endif; 
 }
-?>s
+?>
